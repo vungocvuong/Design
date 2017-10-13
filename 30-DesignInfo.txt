@@ -1,0 +1,13 @@
+Color
+	+ yellow: 245 212 69 #F5D445
+	+ blue: 34 54 70 #223646
+Font:
+	Montserrat
+
+- Kich thước cover image
+	- Design size: 820 x 462
+	- Destop size: 820 x 320
+	- Smartphone size: 	640 x 360
+	- Guide top: 75px
+	- Guide bottom: 387px
+	
